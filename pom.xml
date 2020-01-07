@@ -47,8 +47,8 @@
     </build>
 
     <scm>
-        <url>http://github.com:Eligiusz7/sfg-pet-clinic</url>
-        <connection>scm:git:http://github.com:Eligiusz7/sfg-pet-clinic.git</connection>
+        <url>github.com:Eligiusz7/sfg-pet-clinic</url>
+        <connection>scm:git:github.com:Eligiusz7/sfg-pet-clinic.git</connection>
         <tag>sfg-pet-clinic-0.0.1</tag>
     </scm>
 </project>
