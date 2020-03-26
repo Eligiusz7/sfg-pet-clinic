@@ -1,4 +1,4 @@
-package com.example.sfgpetclinic.Controllers;
+package com.example.sfgpetclinic.controllers;
 
 import com.example.sfgpetclinic.model.Owner;
 import com.example.sfgpetclinic.services.OwnerService;
